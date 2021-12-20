@@ -4,7 +4,10 @@ h1{
 h2{
     color: thistle;
 }
-p{
-    color: burlywood;
+.p1{
+    color: blue;
+}
+.p2{
+    color: goldenrod;
 }
 
